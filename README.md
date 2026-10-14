@@ -1,1 +1,3 @@
-# Hello-World
+# Hello World
+
+Initial Hello World repository.
